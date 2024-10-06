@@ -30,7 +30,7 @@ module.exports = {
   EXT: process.env.EXT === undefined ? undefined : process.env.EXT,
   LANG:
     process.env.LANGUAGE === undefined
-      ? "EN"
+      ? "ML"
       : process.env.LANGUAGE.toUpperCase(),
   HANDLERS: process.env.HANDLERS === undefined ? "^[.]" : process.env.HANDLERS,
   SEND_READ:
