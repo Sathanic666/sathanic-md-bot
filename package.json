@@ -1,7 +1,7 @@
 {
-  "name": "bottus",
+  "name": "sathanic",
   "version": "1.2.8",
-  "description": "A whatsapp User bot",
+  "description": "mone eth oru user bot ahn",
   "main": "./whatsAsena/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
