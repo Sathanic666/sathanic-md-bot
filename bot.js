@@ -97,12 +97,12 @@ async function whatsAsena(version) {
 ${chalk.white.bold.bgBlack("Version:")} ${chalk.red.bold.bgBlack(
       config.VERSION
     )}
-${chalk.blue.italic.bgBlack("ℹ️ Connecting to WhatsApp... Please wait.")}`)
+${chalk.blue.italic.bgBlack("🔂 Connecting to WhatsApp... Please wait.")}`)
   })
   conn.on("open", async () => {
-    console.log(chalk.green.bold("✅ Login successful!"))
+    console.log(chalk.green.bold("💭 Login successful!"))
     console.log(chalk.blueBright.italic("⬇️ Installing external plugins..."))
-    console.log(chalk.blueBright.italic("✅ Login information updated!"))
+    console.log(chalk.blueBright.italic("🗯️ Login information updated!"))
 
     const authInfo = conn.base64EncodedAuthInfo()
     if (StrSes_Db.length < 1) {
@@ -136,7 +136,7 @@ ${chalk.blue.italic.bgBlack("ℹ️ Connecting to WhatsApp... Please wait.")}`)
         )
       }
     })
-    console.log(chalk.blueBright.italic("⬇️  Installing plugins..."))
+    console.log(chalk.blueBright.italic("⏬  Installing plugins..."))
 
     fs.readdirSync("./plugins").forEach((plugin) => {
       if (path.extname(plugin).toLowerCase() == ".js") {
@@ -144,7 +144,7 @@ ${chalk.blue.italic.bgBlack("ℹ️ Connecting to WhatsApp... Please wait.")}`)
       }
     })
 
-    console.log(chalk.green.bold("✅ Plugins installed!"))
+    console.log(chalk.green.bold("♻️ Plugins installed!"))
     await conn.sendMessage(
       conn.user.jid,
       await startMessage(),
