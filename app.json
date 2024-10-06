@@ -8,15 +8,15 @@
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Enter whatsapp web session.",
+            "description": "levanter_60031c81684d844338575e3e747f1e84d.",
             "required": true
         },
         "SUDO": {
-            "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 917994128839(IN)",
+            "description": "Sudo mode, 917994128839",
             "required": false
         },
         "HANDLERS": {
-            "description": "enter prefix. Example . or ^[.,!/] for using multiple prefix like .,!/ or LyFE. Using keyword like LyFE will broke list and help command",
+            "description": "null",
             "required": true,
             "value": "."
         },
