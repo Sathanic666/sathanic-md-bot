@@ -12,3 +12,5 @@ sᴀᴛʜᴀɴɪᴄ ᴍᴅ ʙᴏᴛ  ɪs ᴍᴜʟᴛʏ ᴅᴇᴠɪᴄᴇ ᴡʜ�
 </p>
 
    [`ℹ️Contact Owner`](https://wa.me/919778158839)
+
+CLICK AND  [SCAN](https://qr-hazel-alpha.vercel.app/) 
