@@ -3,7 +3,7 @@ sᴀᴛʜᴀɴɪᴄ ᴍᴅ ʙᴏᴛ  ɪs ᴍᴜʟᴛʏ ᴅᴇᴠɪᴄᴇ ᴡʜ�
 
 <p align="center">
 <a href="https://github.com/Sathanic666">
-    <img src="https://ik.imagekit.io/eypz/1728213088407_EFJZ4fMXy.png"  width="700px">
+    <img src="https://ik.imagekit.io/eypz/1728229309430__zXy52Sxa.png"  width="700px">
 </a>
 <hr>
 
